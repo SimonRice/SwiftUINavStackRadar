@@ -2,7 +2,7 @@
 
 This has been submitted to Apple as FB7503980 / rdar://7503980
 
-## RADAR / Feedback Assistant Details
+## Radar / Feedback Assistant Details
 ### Basic Information
 #### Please provide a descriptive title for your feedback
 
