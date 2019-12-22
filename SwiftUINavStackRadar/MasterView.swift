@@ -17,7 +17,7 @@ struct MasterView: View {
         NavigationView {
             List(items, id: \.self) { item in
                 NavigationLink(
-                    destination: EmptyView(),
+                    destination: EmptyView().navigationBarTitle(item),
                     label: { Text(item) }
                 )
             }
