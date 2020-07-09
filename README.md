@@ -2,6 +2,8 @@
 
 This has been submitted to Apple as FB7503980 / rdar://7503980
 
+It has been fixed in Xcode 11.5, and is believed to've been fixed in Xcode 11.4 too.
+
 ## Radar / Feedback Assistant Details
 ### Basic Information
 #### Please provide a descriptive title for your feedback
